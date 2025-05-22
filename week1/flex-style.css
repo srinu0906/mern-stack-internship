@@ -1,0 +1,32 @@
+
+.box-1{
+    background-color: violet;
+}
+.box-2{
+    background-color: indigo;
+}
+.box-3{
+    background-color: blue;
+}
+.box-4{
+    background-color: green;
+}
+.box-5{
+    background-color: yellow;
+}
+.box{
+    padding:30px;
+    color:whitesmoke;
+}
+.container{
+    display:flex;
+    /* flex-direction: column; */
+    /* flex-direction: row; */
+    /* flex-direction: row-reverse; */
+    /* justify-content: center; */
+    /* justify-content: baseline; */
+    /* justify-content: flex-end; */
+    /* justify-content: space-between; */
+    /* justify-content: flex-end; */
+
+}
