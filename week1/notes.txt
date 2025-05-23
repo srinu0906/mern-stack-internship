@@ -1,0 +1,20 @@
+23/05/2025
+Friday
+
+>>> Why do we need Javascript?
+- It makes website dynamic.
+
+- User actions: Ex: scroll,click,write are called events.
+
+>>> What is a function in javascript?
+- It is a set of instruction
+
+-- ctrl + U to open source code in browser
+
+>>> Bootstrap
+- It is a library of CSS. We can use just class name to apply class name.
+
+>>> Javascript
+- Brandon Eich created Js 
+- Staatic website behavior can be changed.
+- Js only works on frontend. It can work on server only if an environment is created.

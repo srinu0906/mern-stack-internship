@@ -1,0 +1,50 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* vh-> vieHeight -> total screen height of your bowser
+    - Absolute unit -> pixel
+    - Relative unit -> vh,vw */
+}
+
+.card{
+    width: 200px;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px;/* shadow on top 0px left and right is 4px bottom is 8px*/
+    /* padding: 20px;  */
+    cursor: pointer;
+    transition: all 1s ease;
+    overflow: hidden;
+}
+
+img {
+    width: 100%;
+}
+
+.info{
+    padding: 20px;
+}
+h2{
+    font-size: 20px;
+    margin:0;
+    color:#333;
+}
+p{
+    margin-top:8px;
+    color:#666;
+    font-size:14px;
+}
+
+/* we will make a class that is not in there in our code */
+.expanded{
+    width: 200px;
+}
+
+.expanded p{
+    display: block;
+}
+
