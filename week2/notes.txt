@@ -1,0 +1,8 @@
+26/05/2025
+MONDAY
+
+>>> Quokkka extension 
+- It is like a playground for javascript
+
+>>> Variable are like containers
+- let keyword is used to define variables
