@@ -6,3 +6,25 @@ MONDAY
 
 >>> Variable are like containers
 - let keyword is used to define variables
+
+- 3 varaible declarations
+i.var        ii.let       iii.const
+
+- var was used previously before 2015(ES6)
+- problem is value can be reassigned in var declarations
+- so 'let' and 'const' were introduced
+-'let is similar to 'var' , but 'const' is fixed (constant)
+
+>>> Datatypes
+- number, string, boolean
+- two types of Datatypes
+    1. Primitive :- basic (number,string, boolean,undefined)
+    2. Non-primitive :- they hold large and complex values(functions,arrays,objects)
+
+>>> Arrays
+- used to store collection of items of any datatype 
+- Array methods
+// to add elementa from the last -> push()
+// to remove eleement at last place -> pop()
+//add elements from start -> unshift()
+//remove elements from start -> shift()
