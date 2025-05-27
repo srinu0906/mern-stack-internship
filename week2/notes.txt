@@ -28,3 +28,21 @@ i.var        ii.let       iii.const
 // to remove eleement at last place -> pop()
 //add elements from start -> unshift()
 //remove elements from start -> shift()
+
+
+27/06/2025
+TUESDAY
+
+>>> Functions 
+- code which performs specific tasks
+- function scope
+- return statement
+    i.using function keyword
+    ii. variable expresion:- assigning function to a variable
+    iii. anonymous functions
+
+>>> Objects
+- OBJECTS in JS are different from OBJECTS in OOP
+- Objects is a collection of key value pairs {key : value}
+- We use keys to access the values in the object using dot notation or bracket notation
+- values can be another objects (nested objects)
