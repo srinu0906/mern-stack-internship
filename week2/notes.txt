@@ -46,3 +46,17 @@ TUESDAY
 - Objects is a collection of key value pairs {key : value}
 - We use keys to access the values in the object using dot notation or bracket notation
 - values can be another objects (nested objects)
+
+
+28/05/2025
+WEDNESDAY
+
+IIC portal registration
+MongoDB NodeJs course
+
+>>> Parameter/Arguments
+- objects can also be passed as arguments
+
+>>> Callback functions 
+- functions passed as arguments inside other functions 
+- callback function name without parenthesis should be passed as a parameter
