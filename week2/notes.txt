@@ -60,3 +60,23 @@ MongoDB NodeJs course
 >>> Callback functions 
 - functions passed as arguments inside other functions 
 - callback function name without parenthesis should be passed as a parameter
+
+
+29/05/2025
+THURSDAY
+
+>>> Control Statements
+
+>>> ES6
+- Emma Script
+- ES6 introduced in 2015
+- i. let and const were introduced
+- ii. === (stricly equal to )operator was introduced 
+- iii. destrucuring 
+- iv. spread and rest 
+
+- === checks both value and datatype
+- == checks only value
+
+>>> Destrucuring
+- similar to unpacking , values in array or objects are assigned to varibles in a easy way
