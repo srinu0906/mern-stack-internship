@@ -80,3 +80,31 @@ THURSDAY
 
 >>> Destrucuring
 - similar to unpacking , values in array or objects are assigned to varibles in a easy way
+
+
+30/05/2025
+FRIDAY
+
+>>> Spread and Rest operator
+
+- Spread operator -> syntax ...
+- It splits an iterable item(items on which we can run a loop) into single items
+- ... on the RHS of = sign
+
+- Rest Operator , syntax -> ...
+- opposite of spread operator.
+- it gathers / groups items in single iterable items
+- it is in LHS of = sign
+
+>>> Higher Order Functions
+- These are array methods
+-   1. forEach  2. map
+
+- forEach iterates over an array
+- it does not return a new Array
+- to overcome the issue we use map function
+
+
+>>> DOM manipulation 
+- document object model
+- every element in a html page is treated as object in a html tree
