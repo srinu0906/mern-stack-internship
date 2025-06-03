@@ -4,3 +4,41 @@ Tuesday
 >>> React Js
 - React JS is a Javascript Library
 - Used for buliding UI , Single Page Application(SPA, dynamically updates the page without refreshing the page)
+
+>>> Why do we need ReactJs
+- Resuable components
+
+>>> DOM representation
+- Document object model
+    <div>
+        <h1>Hello</h1>
+        <button>
+            Clcik me!
+        </button>
+    </div>
+
+                |  <-DOM
+                O --div
+              /   \
+        h1-- O     O --button
+
+
+- Normal HTML page uses Real DOM or DOM, whereas reactJS uses virtual DOM
+- Virtual DOM is a copy of Real DOM
+- it is faster to load
+
+
+>>> Getting Started with React
+- to check node version
+    node -v
+- vite :- gives environment to create react app
+    npm create vite@latest
+- enter y
+- enter Project name 
+- Select a framework -- React
+- Select a variant -- Javascript
+- run the following commands
+      cd project name
+      npm install
+      npm run dev
+- project will run in localhost:5173
