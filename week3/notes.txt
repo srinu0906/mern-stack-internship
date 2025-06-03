@@ -1,0 +1,6 @@
+03/06/2025
+Tuesday
+
+>>> React Js
+- React JS is a Javascript Library
+- Used for buliding UI , Single Page Application(SPA, dynamically updates the page without refreshing the page)
