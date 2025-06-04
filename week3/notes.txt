@@ -42,3 +42,27 @@ Tuesday
       npm install
       npm run dev
 - project will run in localhost:5173
+
+
+04/06/2025
+Wednesday
+
+- clear App.css, index.css, App.jsx
+>>> Functional component 
+- it represents react code which returns HTML 
+
+- JSX Javascript and XML
+- JSX expressions must have one parent element.
+- react fragement - a pice of jsx code/ code.
+
+- we can use javascript before return statement
+- {/* This is a comment inside JSX */}
+- we use {} to use javascript inside jsx.
+
+- create a new folder 'components' inside 'src'
+- we can delete assets folder
+
+
+>>> Props are the data we sent to other Functional components
+- they are unidirectional
+- props is an object 
