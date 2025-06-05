@@ -66,3 +66,11 @@ Wednesday
 >>> Props are the data we sent to other Functional components
 - they are unidirectional
 - props is an object 
+
+
+05/06/2025
+Thrusday
+
+>>> Promises
+- before PROMISES (resolve and reject) were introduced we had pending state
+- keeps on getting loaded and waiting.
