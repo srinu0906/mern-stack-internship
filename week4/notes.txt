@@ -1,0 +1,14 @@
+>>> React Hooks
+- Hooks are special functions in React JS library.
+    eg: useState
+- In React JS useState is udes to storea and change values.
+    syntax:
+        const [mood,setMood] = useState("happy")
+                /       |
+    state variable      set function
+
+- useEffect
+    syntax: 
+    useEffect(() => {
+        playBGM("Rolex Entry")
+    },[]);

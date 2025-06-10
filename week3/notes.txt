@@ -74,3 +74,11 @@ Thrusday
 >>> Promises
 - before PROMISES (resolve and reject) were introduced we had pending state
 - keeps on getting loaded and waiting.
+
+06/06/2025
+Friday
+
+>>> Aynchronous Programming
+- Synchronous Programming: The code or the function that executes sequentially
+- each operation waits for another program to complete
+- In Aynchrounous programming one request does not wait for another request to complete.
