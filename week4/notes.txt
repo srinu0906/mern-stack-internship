@@ -1,3 +1,7 @@
+09/06/2025
+Monday
+
+
 >>> React Hooks
 - Hooks are special functions in React JS library.
     eg: useState
@@ -12,3 +16,30 @@
     useEffect(() => {
         playBGM("Rolex Entry")
     },[]);
+
+
+10/06/2025
+Tuesday
+
+>>> Node JS
+- It is a runtime envirionment for javascript.
+- we can run our javascript outside web browser.
+- we can run javascript it in a shell or terminal environment.
+- most importantly we can use it to make a SERVER or API.
+- asynchronous programming behaviour can be used in node js , which makes it faster.
+
+- node js actually uses JS to run server operations and handles multiple requests.
+
+
+
+- create a folder mern and run this command inside the folder
+    npm init -y
+- a pckage.json string will be created and enter your name inside author field.
+- then run 
+    npm install
+
+- create a index.js file.
+- we can run this file using node as:
+    node index.js
+
+- In node js files are called as modules.
