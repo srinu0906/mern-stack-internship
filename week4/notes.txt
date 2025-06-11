@@ -43,3 +43,21 @@ Tuesday
     node index.js
 
 - In node js files are called as modules.
+
+
+11/06/2025
+Wednessday
+
+- server is a computer that serves data
+
+>>> express js
+
+- What is a request ?
+- data requested from the browser
+i response : data send by the server(backend)
+ 
+- we can create a serveer using http module without express
+
+- to install express
+    npm install express
+
