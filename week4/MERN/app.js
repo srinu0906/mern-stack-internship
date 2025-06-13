@@ -19,9 +19,17 @@
 const express = require('express');
 const app = express();
 
-app.get('/idli',() => {})
-app.get('/biriyani',() => {})
+app.get('/',(req,res) => {
+    res.send("Home page");
+})
+
+app.get('/idli',(req,res) => {
+    res.send("idly is ready");
+})
+app.get('/biriyani',(req,res) => {
+    res.send('biriyani is ready');
+})
 
 app.listen(5000, ()=> {
-    console.log("Server is running on port 5000");
+    console.log("Server is running on the port 5000");
 });

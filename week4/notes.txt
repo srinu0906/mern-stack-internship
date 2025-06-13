@@ -61,3 +61,19 @@ i response : data send by the server(backend)
 - to install express
     npm install express
 
+
+12/06/25
+Thrusday
+
+- to automatically update changes 
+    npm install nodemon
+- change "dev" : "nodemon app.js" in pacakge.json
+- now run
+    rpm run dev
+
+>>> MongoDB
+
+
+
+13/06/25
+Friday
